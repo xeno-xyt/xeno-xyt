@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xeno-xyt" alt="xeno-xyt" /></a> </p>
 
-- 🔭 I’m currently working on [EzCurl](https://github.com/xeno-xyt/EzCurl)
+- 🔭 I’m currently working on [LrucHTTP](https://github.com/xeno-xyt/LrucHTTP)
 
 - 🌱 I’m currently learning **Angular, Vue**
 
